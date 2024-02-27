@@ -16,7 +16,7 @@ const Theme = () => {
                             borderRadius: "50%",
                             overflow: "hidden"
                         }}
-                    >
+                  data-aos="flip-up"  >
                         <img
                             className="rounded-circle w-100"
                             src="../../../public/images/PhotoShot_1683366807667.jpeg"
